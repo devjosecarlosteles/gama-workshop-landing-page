@@ -1,0 +1,57 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body, html {
+	font-size: 16px;
+
+	font-family: 'Roboto', sans-serif;
+
+	overflow-x: hidden;
+}
+
+img {
+	width: 100vw;
+	height: 70vh;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	
+	margin-top: 20px;
+
+	text-align: center;
+}
+
+main {
+	width: 100vw;
+
+	padding: 40px;
+}
+
+#descricao {
+	font-size: 24px;
+	width: 100%;
+}
+
+ol li {
+	font-size: 24px;
+}
+
+ol p {
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+
+	color: #000;
+}
+
+a:hover {
+	transition: 0.5s;
+	font-size: 30px;
+	color: #e2e;
+}
